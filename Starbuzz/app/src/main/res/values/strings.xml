@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+    <string name="starbuzz_logo">starbuzz_logo</string>
+    <string name="label_drink_category_activity">DrinkCategoryActivity</string>
+
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+
+</resources>
