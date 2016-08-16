@@ -9,6 +9,7 @@
     <string name="title_top">Top fragment</string>
     <string name="open_drawer">Open drawer</string>
     <string name="close_drawer">Close drawer</string>
+    <string name="title_activity_pizza_detail">Pizza detail</string>
 
     <string-array name="pizzas">
         <item>Diavolo</item>
